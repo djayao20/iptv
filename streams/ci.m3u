@@ -7,6 +7,8 @@ https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8
 https://voozmedia.fun/benietv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Business24Africa.ci",Business 24 Africa (480p)
 https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/index.m3u8
+#EXTINF:-1 tvg-id="dntv.ci/",DNTV(720p)
+https://tv.num221tech.com:5443/LiveApp/streams/dntv.m3u8
 #EXTINF:-1 tvg-id="DivinAmourTV.ci",Divin Amour TV (720p)
 https://voozmedia.fun/divinamourtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="GuideLoveTV.ci",Guide Love TV (720p)
